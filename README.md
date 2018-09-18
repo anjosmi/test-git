@@ -1,6 +1,6 @@
 # test-git
 
-Mi
+Michele	Anjos
 Learning git one commit at a time...
 
 # Why do we need version control system?
