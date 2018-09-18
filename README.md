@@ -74,6 +74,10 @@ DEMO in GitHub
     <td class="tg-yw4l">git reset HEAD file.txt</td>
     <td class="tg-yw4l">Unstage your change</td>
   </tr>   
+  <tr>
+    <td class="tg-yw4l">git checkout -- <name of the file></td>
+    <td class="tg-yw4l">Undo changes that were not committed yet</td>
+  </tr>    
 </table>
 
 # Branching / merging / pull requests
