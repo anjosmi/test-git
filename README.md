@@ -74,7 +74,7 @@ DEMO in GitHub
 
 # Branching / merging / pull requests
 
-    Step 0: Bring in the changes and test
+    Step 0: Bring in the changes
     git fetch origin
     
     Step 1: Create a branch
