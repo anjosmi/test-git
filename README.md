@@ -70,6 +70,10 @@ DEMO in GitHub
     <td class="tg-yw4l">git checkout -- file.txt</td>
     <td class="tg-yw4l">This will remove all the changes applied to file file.txt since last commit</td>
   </tr> 
+  <tr>
+    <td class="tg-yw4l">git reset HEAD file.txt</td>
+    <td class="tg-yw4l">Unstage your change</td>
+  </tr>   
 </table>
 
 # Branching / merging / pull requests
