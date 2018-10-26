@@ -90,7 +90,7 @@ DEMO in GitHub
     Step 2: Check different branches
     git branch
     
-    Apply a change!!! 
+        Apply a change!!! 
 
     Step 3: Make sure the branch is up to date
     git merge master
